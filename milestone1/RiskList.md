@@ -2,6 +2,6 @@
 |-----------------------|-------|-----------|------------|
 |* Limited Breadth of Testing (28)| 4 | 7 | For our grading scale we would want to make sure that we get a lot of outside opinion on whether our grading scale is accurate. We will likely not gather a large amount of outside testing, so most of the opionion on the scale will be done by us. |
 |* Lack of Time (24)| 6 | 4 | There is a possiblity that we have not given ourselves enough time to complete a grading scale for the NIST guides. If we are low on time our product will end up being either incomplete or of a worse quality. |
-|Risk 3 (20)| ? | ? | description |
+|* Failed Replication of Chosen Guide (8)| 8 | 1 | It is very unlikely that this will occur, but if we are unable to actually complete the practice guide chosen to test our grading scale, then we will never know how well our scale will perform. While a how-to guide that we can't complete should scale badly on our scale, we will not be able to tell how well our grading scale will perform on a working how-to guide. |
 |* Loss of Group Member (10) | 10 | 1 | A group member may have a personal issue appear or have some reason to drop the class or not participate anymore. If this occurs we will be heavily impacted, but the chance of this is low. |
 |Risk 5 (10)| ? | ? | description |
