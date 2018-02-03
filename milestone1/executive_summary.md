@@ -15,4 +15,6 @@ As rising security practitioners, we understand the need for quality guides expl
 &emsp;Finally, poorly scored documents likely will not be used by companies wanting to implement that document’s specific security policy. So, efforts could be focused on improving that document in order to allow the implementation of that security policy to become more widespread. For instance, if the DNS-Based Secure Email NIST SP 1800-6 Practice Guide is scored poorly, then it would make sense to focus on the improvement of that document in order to allow companies to better implement the security policies proposed in the document.
 <div><div>
 <strong>Project Timeline</strong><div>
-![Alt text](/insure-nccoe-practice-guide-vetting/milestone1/GanttChart.png?raw=true)
+<p>
+  <img src="https://github.com/MLHale/insure-nccoe-practice-guide-vetting/blob/master/milestone1/GanttChart.png" />
+</p>
