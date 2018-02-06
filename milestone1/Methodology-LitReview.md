@@ -8,6 +8,9 @@ https://techwhirl.com/tips-and-tricks-10-heuristics-documentation-usability/
 #### Implementing Usability Testing (references many sources that may be worth looking at)
 http://stars.library.ucf.edu/cgi/viewcontent.cgi?article=5372&context=etd
 
+#### Usability Test Plan Template
+https://www.usability.gov/how-to-and-tools/resources/templates/usability-test-plan-template.html
+
 ## Readability/Understandability
 #### Readability indicators:
 https://www.webpagefx.com/tools/read-able/
