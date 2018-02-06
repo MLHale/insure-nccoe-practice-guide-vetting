@@ -18,5 +18,8 @@ https://www.webpagefx.com/tools/read-able/
 #### Automated Readability Tool:
 https://readable.io/
 
+#### Test Readability in Microsoft Word
+https://support.office.com/en-us/article/Test-your-document-s-readability-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2
+
 ## Accuracy
 accuracy = # of errors/# of tasks
