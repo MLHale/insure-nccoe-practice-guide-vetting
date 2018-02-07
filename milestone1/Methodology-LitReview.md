@@ -1,6 +1,6 @@
 The NCCoE produces practice guides (NIST SP 1800 series) in an effort to increase adoption of NIST standards and cybersecurity technologies. Each guide consists of three volumes. Volume A is a high level executive summary. Volume B contains rationale for adopting the method described and functional evaluations. Volume C contains detailed how-to instructions on how to implement the method. Although the guides describe specific technologies, they are designed to be used with other products. There is little to no research into the usability of technical how-to guides. We will look at look at existing usability scales in user experience design and investigate their usage with the practice guides.
 
-ISO 9241-11 defines usability as the "Extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use."(ISO citation) Effectiveness is defined as "Accuracy and completeness with which users achieve specified goals." (ISO citation) According to Justin Mifsud (Usability Geek citation), effectiveness can be calculated by measuring completion rate. Mifsud provided the follolwing formula to calculate effectiveness as a percentage:
+ISO 9241-11 defines usability as the "Extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use."(ISO citation) Effectiveness is defined as "Accuracy and completeness with which users achieve specified goals." (ISO citation) According to an article by Justin Mifsud (Usability Geek citation) discussing ISO 9241-11, effectiveness can be calculated by measuring completion rate. Mifsud provided the follolwing formula to calculate effectiveness as a percentage:
 
 <img src="http://usabilitygeek.com/wp-content/uploads/2015/06/usability-metrics-effectiveness.jpg" alt="usability-metrics-effectiveness" width="750" height="75" />
 
@@ -10,7 +10,13 @@ This measurement can be applied to Volume C of the practice guides. Due to the t
 
 ISO 9241-11 (citation) defines satisfaction as "Freedom from discomfort, and positive attitudes towards the use of the product." Mifsud (citation) states "User satisfaction is measured through standardized satisfaction questionnaires which can be administered after each task and/or after the usability test session." The article lists several types of questionnaires and the usage of each. With adequate time and resources for a usability test session, satisfaction could be measured for the practice guides. Usability test session participants should include a mix of technology experts (for technology realted to the practice guide), varying levels of cybersecurity professionals, and varying levels of IT professionals. 
 
+Other metrics of interest to apply to the guides are accuracy, readability, understandability, and consistency. Consistency applies to consistent messaging acorss all three volumes of the guide. Areas of inconsistency between volumes will be recorded and reported. Accuracy applies to Volume C. It is important the instructions are correct. To measure the accuracy of the guide as a percentage, the following formula can be used:
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=Accuracy&space;=&space;\frac{\text{Number&space;of&space;tasks&space;containing&space;incorrect&space;information}}{\text{Total&space;number&space;of&space;tasks&space;in&space;guide}}&space;*&space;100\%" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Accuracy&space;=&space;\frac{\text{Number&space;of&space;tasks&space;containing&space;incorrect&space;information}}{\text{Total&space;number&space;of&space;tasks&space;in&space;guide}}&space;*&space;100\%" title="Accuracy = \frac{\text{Number of tasks containing incorrect information}}{\text{Total number of tasks in guide}} * 100\%" /></a>
+
+While replicating the practice guide example, any tasks containing errors will be recorded. The accuracy of the how-to guide will then be calculated and reported.
+
+Readability is a measure of how easily something can be read. Understandability is a measure of how easily a subject can understand the material. Many automated tools are available to calculate readability and understandability.
 
 
 ## Usability
