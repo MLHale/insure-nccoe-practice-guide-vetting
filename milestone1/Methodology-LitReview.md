@@ -8,7 +8,9 @@ This measurement can be applied to Volume C of the practice guides. Due to the t
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=Effectiveness&space;=&space;\frac{\text{Number&space;of&space;tasks&space;which&space;resulted&space;in&space;an&space;error}}{\text{Total&space;number&space;of&space;tasks&space;in&space;guide}}&space;*&space;100\%" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Effectiveness&space;=&space;\frac{\text{Number&space;of&space;tasks&space;which&space;resulted&space;in&space;an&space;error}}{\text{Total&space;number&space;of&space;tasks&space;in&space;guide}}&space;*&space;100\%" title="Effectiveness = \frac{\text{Number of tasks which resulted in an error}}{\text{Total number of tasks in guide}} * 100\%" /></a>
 
-ISO 9241-11 (citation) defines satisfaction as "Freedom from discomfort, and positive attitudes towards the use of the product." Mifsud (citation) states "User satisfaction is measured through standardized satisfaction questionnaires which can be administered after each task and/or after the usability test session." The article lists several types of questionnaires and the usage of each. With adequate time and resources, satisfaction could be measured for the practice guides.
+ISO 9241-11 (citation) defines satisfaction as "Freedom from discomfort, and positive attitudes towards the use of the product." Mifsud (citation) states "User satisfaction is measured through standardized satisfaction questionnaires which can be administered after each task and/or after the usability test session." The article lists several types of questionnaires and the usage of each. With adequate time and resources for a usability test session, satisfaction could be measured for the practice guides. Usability test session participants should include a mix of technology experts (for technology realted to the practice guide), varying levels of cybersecurity professionals, and varying levels of IT professionals. 
+
+
 
 ## Usability
 
