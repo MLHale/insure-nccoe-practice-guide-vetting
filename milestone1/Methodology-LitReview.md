@@ -4,7 +4,11 @@ ISO 9241-11 defines usability as the "Extent to which a product can be used by s
 
 <img src="http://usabilitygeek.com/wp-content/uploads/2015/06/usability-metrics-effectiveness.jpg" alt="usability-metrics-effectiveness" width="750" height="75" />
 
-This measurement can be applied to Volume C of the practice guides. Due to the technical nature of the document, an ideal effectiveness rating would be 100%. We can hypothesize that if one task is not completed successfully, the implementation of that guide's method can not be adequately completed. For that reason, we can calculate effectiveness by measuring number of errors. Mifsud (citation) defines erorrs as "unintended actions, slips, mistakes or omissions that a user makes while attempting a task."
+This measurement can be applied to Volume C of the practice guides. Due to the technical nature of the document, an ideal effectiveness rating would be 100%. We can hypothesize that if one task is not completed successfully, the implementation of that guide's method can not be adequately completed. For that reason, we can instead calculate effectiveness by measuring number of errors. Mifsud (citation) defines erorrs as "unintended actions, slips, mistakes or omissions that a user makes while attempting a task."
+
+<a href="http://www.codecogs.com/eqnedit.php?latex=Effectiveness&space;=&space;\frac{\text{Number&space;of&space;tasks&space;which&space;resulted&space;in&space;an&space;error}}{\text{Total&space;number&space;of&space;tasks&space;in&space;guide}}&space;*&space;100\%" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Effectiveness&space;=&space;\frac{\text{Number&space;of&space;tasks&space;which&space;resulted&space;in&space;an&space;error}}{\text{Total&space;number&space;of&space;tasks&space;in&space;guide}}&space;*&space;100\%" title="Effectiveness = \frac{\text{Number of tasks which resulted in an error}}{\text{Total number of tasks in guide}} * 100\%" /></a>
+
+ISO 9241-11 (citation) defines satisfaction as "Freedom from discomfort, and positive attitudes towards the use of the product." Mifsud (citation) states "User satisfaction is measured through standardized satisfaction questionnaires which can be administered after each task and/or after the usability test session." The article lists several types of questionnaires and the usage of each. With adequate time and resources, satisfaction could be measured for the practice guides.
 
 ## Usability
 
