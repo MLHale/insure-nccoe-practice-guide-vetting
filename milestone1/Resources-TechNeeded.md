@@ -17,11 +17,11 @@ Due to wide coverage of the document, the number of resources used is quite exte
 | Domain Name(s) | Yes | - | Need a domain to purchase with the ability to override the nameservers to ours |
 | Secure64 DNS Signer, DNS Cache, DNS Authority, and DNS Manager | Yes | Cody | This was used as the other end of their lab, provided by and configured by Secure64 |
 | Secure64 Apple Key Chain Utility | ?No? | - | ??Is this built into macOS/OS X?? Couldn't find anything on Secure64 building this |
-| Windows Server 2016 | No | - | Required for the ADDS, ADCS, and Windows-based DNS portion of the lab |
-| Microsoft Exchange 2016 | No | - | Required for the Windows-based Mail Transfer Agent |
+| Windows Server 2016 | No | Cody | Required for the ADDS, ADCS, and Windows-based DNS portion of the lab |
+| Microsoft Exchange 2016 | No | Liam | Required for the Windows-based Mail Transfer Agent |
 | Postfix with Dovecot | No | - | Required for Linux-based Mail Transfer Agent |
-| NSD4 Authoritative Name Server | No | - | Open-source DNS Server |
+| NSD4 Authoritative Name Server | No | Liam | Open-source DNS Server |
 | OpenDNSSEC Domain Name Security Manager | No | - | Used to secure DNS zone data before it is published to an authoritative name server |
 | Unbound DNS Resolver | No | - | DNS Resolver with DNSSEC Validation |
 | BIND Resolver & Domain Name Authority Server | No | - | DNS Resolver with DNSSEC Validation and DNSSEC in-line signing |
-| Outlook, Thunderbird | No | - | Mail clients necessary to perform the lab |
+| Outlook, Thunderbird | No | Liam | Mail clients necessary to perform the lab |
