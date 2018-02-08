@@ -16,5 +16,5 @@ As rising security practitioners, we understand the need for quality guides expl
 <div><div>
 <strong>Project Timeline</strong><div>
 <p>
-  <img src="https://github.com/MLHale/insure-nccoe-practice-guide-vetting/blob/master/milestone1/GanttChart.png" />
+  <img src="./GanttChart.png" />
 </p>
