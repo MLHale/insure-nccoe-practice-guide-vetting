@@ -63,7 +63,7 @@ Due to wide coverage of the document, the number of resources used is quite exte
 | readable.io | Yes | Dan | Used to perform text grading analysis |
 | BETSY | Yes | Dan | Windows-based program that classifies text based on trained material |
 
-### Required to recreate the lab
+### Required to Recreate the Lab
 | Resources | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
 | Rackspace / VM Hosting | Yes | - | Lots of options - vSTEAL, Cody's HomeLab, Cloud Hosted (Azure, AWS), or running locally to host the virtual labs. Most likely Hyper-V or VMWare |
