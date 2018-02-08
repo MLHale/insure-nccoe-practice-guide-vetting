@@ -26,9 +26,13 @@ According to an article posted by the Technical Communication Center (techwriter
 
 Many automated tools are available to calculate readability and understandability. Readable.io is a software that calculates multiple readability formulas. To further measure understandability during the replication phase, we will document any areas of the how-to guide that require additional research/knowledge outside of the practice guide. These metrics primarily apply to volumes A and B.
 
+Interrater reliability measures agreement among data collectors. According to McHugh (2012), interrater reliability is a concern "...due to the fact that multiple people collecting data may experience and interpret the phenomena of interest differently." Reliability of data collection increases overall confidence in the accuracy of a research study (McHugh, 2012). 
+
 ## Sources
 
 ISO/IEC, (1998). ISO/IEC 9241-11:1998 Ergonomic requirements for office work with visual display terminals (VDTs) -- Part 11: Guidance on usability. Geneva, Switzerland: ISO/IEC. Retrieved from https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-1:v1:en
+
+McHugh, Mary L. (October 15, 2012). Interrater reliability: the kappa statistic. *Biochemia Medica*. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900052/
 
 Misfud, Justin. (June 22, 2015). Usability Metrics – A Guide To Quantify The Usability Of Any System. *Usability Geek*. Retrieved from
 https://usabilitygeek.com/usability-metrics-a-guide-to-quantify-system-usability/
