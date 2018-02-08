@@ -4,6 +4,13 @@ Due to wide coverage of the document, the number of resources used is quite exte
 
 [//]: # (open source automated essay scoring?)
 
+## General
+| Resources | Dr. Hale needed? | Investigating Team member | Description |
+|-------------------|---------|---------------------------|-------------|
+| GitHub | No | - | Used to facilitate collaborative efforts |
+| Google Drive | No | - | Used to facilitate collaborative efforts |
+| Slack | Yes | - | Official form of contact between group members |
+
 ## Required to Perform Document Analysis
 | Resources | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
