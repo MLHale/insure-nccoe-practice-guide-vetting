@@ -8,7 +8,7 @@ This measurement can be applied to Volume C of the practice guides. Due to the t
 
 <a href="http://www.codecogs.com/eqnedit.php?latex=Effectiveness&space;=&space;\frac{\text{Number&space;of&space;tasks&space;which&space;resulted&space;in&space;an&space;error}}{\text{Total&space;number&space;of&space;tasks&space;in&space;guide}}&space;*&space;100\%" target="_blank"><img src="http://latex.codecogs.com/gif.latex?Effectiveness&space;=&space;\frac{\text{Number&space;of&space;tasks&space;which&space;resulted&space;in&space;an&space;error}}{\text{Total&space;number&space;of&space;tasks&space;in&space;guide}}&space;*&space;100\%" title="Effectiveness = \frac{\text{Number of tasks which resulted in an error}}{\text{Total number of tasks in guide}} * 100\%" /></a>
 
-ISO 9241-11 (1998) defines satisfaction as "Freedom from discomfort, and positive attitudes towards the use of the product." Mifsud (2015) states "User satisfaction is measured through standardized satisfaction questionnaires which can be administered after each task and/or after the usability test session." The article lists several types of questionnaires and the usage of each. With adequate time and resources for a usability test session, satisfaction could be measured for the practice guides. Usability test session participants should include a mix of technology experts (for technology realted to the practice guide), varying levels of cybersecurity professionals, and varying levels of IT professionals. 
+ISO 9241-11 (1998) defines satisfaction as "Freedom from discomfort, and positive attitudes towards the use of the product." Mifsud (2015) states "User satisfaction is measured through standardized satisfaction questionnaires which can be administered after each task and/or after the usability test session." The article lists several types of questionnaires and the usage of each. The System Usability Scale (SUS) is a proven method for evaluating the usability of systems compared to industry standards (Thomas, 2015). SUS is a 10 question survey utliizing a 5 point likert scale and is administered to a user at the end of the test session. According to Thomas (2015), the average SUS score is 68. With adequate time and resources for a usability test session, satisfaction could be measured for the practice guides through administration of an SUS-type survey. Usability test session participants should include a mix of technology experts (for technology realted to the practice guide), varying levels of cybersecurity professionals, and varying levels of IT professionals. 
 
 Other metrics of interest to apply to the guides are accuracy, readability, understandability, and consistency. Consistency applies to consistent messaging acorss all three volumes of the guide. Areas of inconsistency between volumes will be recorded and reported. Accuracy applies to Volume C. It is important the instructions are correct. To measure the accuracy of the guide as a percentage, the following formula can be used:
 
@@ -24,7 +24,7 @@ According to an article posted by the Technical Communication Center (techwriter
 
 3. Gunning-Fog Readability Index calculates the number of years of formal education needed by the reader to underdstand the text.
 
-Many automated tools, such as readable.io, are available to calculate readability and understandability. To further measure understandability during the replication phase, we will document any areas of the how-to guide that require additional research/knowledge outside of the practice guide. These metrics primarily apply to volumes A and B.
+Many automated tools are available to calculate readability and understandability. Readable.io is a software that calculates multiple readability formulas. To further measure understandability during the replication phase, we will document any areas of the how-to guide that require additional research/knowledge outside of the practice guide. These metrics primarily apply to volumes A and B.
 
 ## Sources
 
@@ -34,6 +34,8 @@ Misfud, Justin. (June 22, 2015). Usability Metrics – A Guide To Quantify The U
 https://usabilitygeek.com/usability-metrics-a-guide-to-quantify-system-usability/
 
 techwriter. (October 7, 2010). 3 Different Readability Indexes for your Technical Document. *Technical Communication Center*. Retrieved from https://www.technicalcommunicationcenter.com/2010/10/07/3-different-readability-indexes-for-your-technical-document/
+
+Thomas, Nathan. (July 13, 2015). How To Use The System Usability Scale (SUS) To Evaluate The Usability Of Your Website. *Usability Geek*. Retrieved from https://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/
 
 https://readable.io/
 
