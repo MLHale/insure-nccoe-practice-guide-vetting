@@ -41,3 +41,4 @@ https://readable.io/
 
 https://support.office.com/en-us/article/Test-your-document-s-readability-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2
 
+http://echo.edres.org:8080/betsy/
