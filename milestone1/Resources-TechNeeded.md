@@ -14,6 +14,7 @@ Due to wide coverage of the document, the number of resources used is quite exte
 ## Required to Perform Document Analysis
 | Resources | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
+| ISO 9241-11 | Yes | Dan | ISO standard that defines usability and readability |
 | readable.io | Yes | Dan | Used to perform text grading analysis |
 
 ## Required to recreate the lab
