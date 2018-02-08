@@ -1,4 +1,4 @@
-##Technical Plan
+## Technical Plan
 
 Utilizing the agile methodology, we will develop a baseline for our scale, replicate the lab solution, and then finalize the scale.
 
