@@ -16,14 +16,24 @@ Other metrics of interest to apply to the guides are accuracy, readability, unde
 
 While replicating the practice guide example, any tasks containing errors will be recorded. The accuracy of the how-to guide will then be calculated and reported.
 
-Readability is a measure of how easily something can be read. Understandability is a measure of how easily a subject can understand the material. Many automated tools, such as readable.io, are available to calculate readability and understandability. To furhter measure understandability during the replication phase, we will document any areas of the how-to guide that require additional research/knowledge outside of the practice guide. These metrics primarily apply to volumes A and B.
+According to an article posted by the Technical Communication Center (techwriter, 2010), readability "measures how easy to read and understand a document is, assuming the readers are identical in understanding of the subject matter." This artcile suggests three readability formulas to measure a technical documentation.
+
+1. Flesch Reading Ease Index calculates reading ease on a scale of 0 - 100 with 0 being very difficult to read and 100 being very easy to read.
+
+2. Flesch-Kinkaid Readability Index calculates the expected grade level of a reader needed to comfortably understand the text.
+
+3. Gunning-Fog Readability Index calculates the number of years of formal education needed by the reader to underdstand the text.
+
+Many automated tools, such as readable.io, are available to calculate readability and understandability. To further measure understandability during the replication phase, we will document any areas of the how-to guide that require additional research/knowledge outside of the practice guide. These metrics primarily apply to volumes A and B.
 
 ## Sources
+
+ISO/IEC, (1998). ISO/IEC 9241-11:1998 Ergonomic requirements for office work with visual display terminals (VDTs) -- Part 11: Guidance on usability. Geneva, Switzerland: ISO/IEC. Retrieved from https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-1:v1:en
 
 Misfud, Justin. (June 22, 2015). Usability Metrics – A Guide To Quantify The Usability Of Any System. *Usability Geek*. Retrieved from
 https://usabilitygeek.com/usability-metrics-a-guide-to-quantify-system-usability/
 
-ISO/IEC, (1998). ISO/IEC 9241-11:1998 Ergonomic requirements for office work with visual display terminals (VDTs) -- Part 11: Guidance on usability. Geneva, Switzerland: ISO/IEC. Retrieved from https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-1:v1:en
+techwriter. (October 7, 2010). 3 Different Readability Indexes for your Technical Document. *Technical Communication Center*. Retrieved from https://www.technicalcommunicationcenter.com/2010/10/07/3-different-readability-indexes-for-your-technical-document/
 
 https://readable.io/
 
