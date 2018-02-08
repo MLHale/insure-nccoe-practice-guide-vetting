@@ -2,7 +2,7 @@ The NCCoE produces practice guides (NIST SP 1800 series) in an effort to increas
 
 ISO 9241-11 (1998) defines usability as the "Extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use." Effectiveness is defined as "Accuracy and completeness with which users achieve specified goals." According to an article by Justin Mifsud (2015) discussing ISO 9241-11, effectiveness can be calculated by measuring completion rate. Mifsud provided the follolwing formula to calculate effectiveness as a percentage:
 
-<img src="http://usabilitygeek.com/wp-content/uploads/2015/06/usability-metrics-effectiveness.jpg" alt="usability-metrics-effectiveness" width="750" height="75" />
+<img src="./usability-metrics-effectiveness.jpg" />
 
 This measurement can be applied to Volume C of the practice guides. Due to the technical nature of the document, an ideal effectiveness rating would be 100%. We can hypothesize that if one task is not completed successfully, the implementation of that guide's method can not be adequately completed. For that reason, we can instead calculate effectiveness by measuring number of errors. Mifsud defines erorrs as "unintended actions, slips, mistakes or omissions that a user makes while attempting a task."
 
