@@ -16,7 +16,7 @@ Other metrics of interest to apply to the guides are accuracy, readability, unde
 
 While replicating the practice guide example, any tasks containing errors will be recorded. The accuracy of the how-to guide will then be calculated and reported.
 
-Readability is a measure of how easily something can be read. Understandability is a measure of how easily a subject can understand the material. Many automated tools, such as readable.io, are available to calculate readability and understandability. These metrics primarily apply to volumes A and B.
+Readability is a measure of how easily something can be read. Understandability is a measure of how easily a subject can understand the material. Many automated tools, such as readable.io, are available to calculate readability and understandability. To furhter measure understandability during the replication phase, we will document any areas of the how-to guide that require additional research/knowledge outside of the practice guide. These metrics primarily apply to volumes A and B.
 
 ## Sources
 
