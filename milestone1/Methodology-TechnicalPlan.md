@@ -5,7 +5,7 @@ Utilizing the agile methodology, we will develop a baseline for our scale, repli
 ### Developing a Baseline Scale
 First, we will need to develop a baseline scale before we actually go through the document. By doing this, we will have a stronger idea of what we are looking for while we go through the document. We will adapt the System Usability Scale from a systems view to a technical document view. We will modify the text of the survey questions while maintaining integrity of the scale. 
 
-Usability effectiveness will be measured against Volume C of the practice guides. Due to the technical nature of the document, an ideal effectiveness rating would be 100%. We can hypothesize that if one task is not completed successfully, the implementation of that guide's method can not be adequately completed. For that reason, we can instead calculate effectiveness by measuring number of errors. Mifsud (2015) defines erorrs as "unintended actions, slips, mistakes or omissions that a user makes while attempting a task."
+Usability effectiveness will be measured against Volume C of the practice guides.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=Effectiveness&space;=&space;\frac{\text{Number&space;of&space;tasks&space;completed&space;successfully}}{\text{Total&space;number&space;of&space;tasks&space;undertaken}}&space;*&space;100\%" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Effectiveness&space;=&space;\frac{\text{Number&space;of&space;tasks&space;completed&space;successfully}}{\text{Total&space;number&space;of&space;tasks&space;undertaken}}&space;*&space;100\%" title="Effectiveness = \frac{\text{Number of tasks completed successfully}}{\text{Total number of tasks undertaken}} * 100\%" /></a>
 
