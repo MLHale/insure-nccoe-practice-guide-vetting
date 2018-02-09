@@ -18,6 +18,8 @@ Interrater reliability measures agreement among data collectors. According to Mc
 
 ## Sources
 
+HOW READABLE IS YOUR WRITING? Accessed: February 8, 2018. Available: https://readable.io/
+
 ISO/IEC, (1998). ISO/IEC 9241-11:1998 Ergonomic requirements for office work with visual display terminals (VDTs) -- Part 11: Guidance on usability. Geneva, Switzerland: ISO/IEC. Retrieved from https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-1:v1:en
 
 McHugh, Mary L. (October 15, 2012). Interrater reliability: the kappa statistic. *Biochemia Medica*. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900052/
@@ -25,12 +27,10 @@ McHugh, Mary L. (October 15, 2012). Interrater reliability: the kappa statistic.
 Misfud, Justin. (June 22, 2015). Usability Metrics – A Guide To Quantify The Usability Of Any System. *Usability Geek*. Retrieved from
 https://usabilitygeek.com/usability-metrics-a-guide-to-quantify-system-usability/
 
+Rudner, Lawrence M. Bayesian Essay Test Scoring sYstem - BETSY. Accessed: February 8, 2018. Available: http://echo.edres.org:8080/betsy/
+
 techwriter. (October 7, 2010). 3 Different Readability Indexes for your Technical Document. *Technical Communication Center*. Retrieved from https://www.technicalcommunicationcenter.com/2010/10/07/3-different-readability-indexes-for-your-technical-document/
 
 Thomas, Nathan. (July 13, 2015). How To Use The System Usability Scale (SUS) To Evaluate The Usability Of Your Website. *Usability Geek*. Retrieved from https://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/
 
-https://readable.io/
 
-https://support.office.com/en-us/article/Test-your-document-s-readability-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2
-
-http://echo.edres.org:8080/betsy/
