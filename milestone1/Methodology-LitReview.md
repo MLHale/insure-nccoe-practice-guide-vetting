@@ -6,12 +6,6 @@ ISO 9241-11 (1998) defines usability as the "Extent to which a product can be us
 
 ISO 9241-11 (1998) defines satisfaction as "Freedom from discomfort, and positive attitudes towards the use of the product." Mifsud (2015) states "User satisfaction is measured through standardized satisfaction questionnaires which can be administered after each task and/or after the usability test session." The article lists several types of questionnaires and the usage of each. The System Usability Scale (SUS) is a proven method for evaluating the usability of systems compared to industry standards (Thomas, 2015). SUS is a 10 question survey utliizing a 5 point likert scale and is administered to a user at the end of the test session. According to Thomas (2015), the average SUS score is 68. 
 
-<strong>Other metrics of interest to apply to the guides are accuracy, readability, understandability, and consistency. Consistency applies to consistent messaging acorss all three volumes of the guide. Areas of inconsistency between volumes will be recorded and reported. Accuracy applies to Volume C. It is important the instructions are correct. To measure the accuracy of the guide as a percentage, the following formula can be used:
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=Accuracy&space;=&space;\frac{\text{Number&space;of&space;tasks&space;containing&space;incorrect&space;information}}{\text{Total&space;number&space;of&space;tasks&space;in&space;guide}}&space;*&space;100\%" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Accuracy&space;=&space;\frac{\text{Number&space;of&space;tasks&space;containing&space;incorrect&space;information}}{\text{Total&space;number&space;of&space;tasks&space;in&space;guide}}&space;*&space;100\%" title="Accuracy = \frac{\text{Number of tasks containing incorrect information}}{\text{Total number of tasks in guide}} * 100\%" /></a>
-
-While replicating the practice guide example, any tasks containing errors will be recorded. The accuracy of the how-to guide will then be calculated and reported.
-</strong>
 According to an article posted by the Technical Communication Center (techwriter, 2010), readability "measures how easy to read and understand a document is, assuming the readers are identical in understanding of the subject matter." This artcile suggests three readability formulas to measure a technical documentation.
 
 1. Flesch Reading Ease Index calculates reading ease on a scale of 0 - 100 with 0 being very difficult to read and 100 being very easy to read.
