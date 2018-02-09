@@ -14,8 +14,6 @@ According to an article posted by the Technical Communication Center (techwriter
 
 3. Gunning-Fog Readability Index calculates the number of years of formal education needed by the reader to underdstand the text.
 
-Many automated tools are available to calculate readability and understandability. Readable.io is a software that calculates multiple readability formulas. To further measure understandability during the replication phase, we will document any areas of the how-to guide that require additional research/knowledge outside of the practice guide. These metrics primarily apply to volumes A and B.
-
 Interrater reliability measures agreement among data collectors. According to McHugh (2012), interrater reliability is a concern "...due to the fact that multiple people collecting data may experience and interpret the phenomena of interest differently." Reliability of data collection increases overall confidence in the accuracy of a research study (McHugh, 2012). Cohen's kappa, developed by Jacob Cohen in the 1960s, is one measurement of interrater reliability. This measure accounts for random agreement among data collectors. Cohen's kappa calculates a score of 0 to 1 with 0 meaning no agreement and 1 meaning perfect agreement.
 
 ## Sources
