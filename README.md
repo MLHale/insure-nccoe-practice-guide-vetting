@@ -78,3 +78,8 @@ Due to wide coverage of the document, the number of resources used is quite exte
 | Unbound DNS Resolver | No | - | DNS Resolver with DNSSEC Validation |
 | BIND Resolver & Domain Name Authority Server | No | Cody | DNS Resolver with DNSSEC Validation and DNSSEC in-line signing |
 | Outlook, Thunderbird | No | Liam | Mail clients necessary to perform the lab |
+
+Sources
+-------
+
+*placeholder for sources*
