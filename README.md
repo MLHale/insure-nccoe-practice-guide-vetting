@@ -100,7 +100,7 @@ Due to wide coverage of the document, the number of resources used is quite exte
 |-------------------|---------|---------------------------|-------------|
 | ISO 9241-11 | Yes | Dan | ISO standard that defines usability and readability |
 | readable.io | Yes | Dan | Used to perform text grading analysis |
-| BETSY | Yes | Dan | Windows-based program that classifies text based on trained material |
+| BETSY | No | Dan | Windows-based program that classifies text based on trained material |
 
 ### Required to Recreate the Lab
 | Resources | Non-team member help needed? | Investigating Team member | Description |
