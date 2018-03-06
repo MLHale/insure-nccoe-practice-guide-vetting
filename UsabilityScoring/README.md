@@ -1,4 +1,4 @@
-# Modify System Usability Scale From a Systems View to a Technical Document View.
+# Modify System Usability Scale From a Systems View to a Technical Document View
 
 ## Overview of Systems Usability Scale
 
