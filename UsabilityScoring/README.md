@@ -15,7 +15,7 @@ After all ten questions have been answered, the SUS score is calculated as follo
 
 According to Thomas (2015), the SUS scores can be evaluated as follows:
 <ul>
-  <li> 80.3 and above = A. Users love the site and would reccomend it to others </li>
+  <li> 80.3 and above = A. Users love the site and would recommend it to others </li>
   <li> 68 = C. There's room for improvement </li>
   <li> 51 and below = F. Usability needs to be made a priority and fixed quickly </li>
 </ul>
@@ -26,16 +26,16 @@ The text of the original SUS questions have been modified to apply to the NIST P
 
 | Question Number | System Usability Scale Question | Practice Guide Usability Scale Question |
 | ---- | --------------------------------| --------------------------------------- |
-| 1 | I think that I would like to use this system frequently. | I think that I would be able to implement other practice guides. |
-| 2 | I found the system unnecessarily complex. | I found the practice guide unnecessarily complex. |
-| 3 | I thought the system was easy to use. | I thought the practice guide was easy to use. |
-| 4 | I think that I would need the support of a technical person to be able to use this system. | I think that I would need the support of a technical person to be able to implement the practice guide. |
-| 5 | I found the various functions in this system were well integrated. | I found the various tasks in this practice guide were adequately explained. |
-| 6 | I thought there was too much inconsistency in this system. | I thought there was too much inconsistency in the practice guide. |
-| 7 | I would imagine that most people would learn to use this system very quickly. | I would imagine that most people would be able to easily implement this practice guide. |
-| 8 | I found the system very cumbersome to use. | I found the practice guide very difficult to follow. |
-| 9 | I felt very confident using the system. | I felt very confident implementing the practice guide. |
-| 10 | I needed to learn a lot of things before I could get going with this system. | I needed to learn a lot of things before I could begin implementing this practice guide. |
+| 1 | I think that I would like to use this system frequently. | I would be able to implement other practice guides. |
+| 2 | I found the system unnecessarily complex. | This practice guide was unnecessarily complex. |
+| 3 | I thought the system was easy to use. | This practice guide was easy to use. |
+| 4 | I think that I would need the support of a technical person to be able to use this system. | I needed additional technical support to implement this practice guide. |
+| 5 | I found the various functions in this system were well integrated. | The tasks in this practice guide were adequately explained. |
+| 6 | I thought there was too much inconsistency in this system. | The instructions in this practice guide were inconsistent. |
+| 7 | I would imagine that most people would learn to use this system very quickly. | Most people could easily implement this practice guide. |
+| 8 | I found the system very cumbersome to use. | This practice guide was difficult to follow. |
+| 9 | I felt very confident using the system. | I understood the instructions in this practice guide. |
+| 10 | I needed to learn a lot of things before I could get going with this system. | Additional research was needed to complete implementation of this practice guide. |
 
 ## Practice Guide Usability Scale Survey
 
