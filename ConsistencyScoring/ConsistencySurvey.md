@@ -22,7 +22,7 @@ The following questions will be asked to the user for feedback:
   </ol>
   <li>Benefits</li>
   <ol>
-    <li>Did section C's implementation administer the proposed benefits from section A</li>
+    <li>Did section C's implementation administer the proposed benefits from section A?</li>
   </ol>
   <li>Acknowledgements</li>
   <ol>
