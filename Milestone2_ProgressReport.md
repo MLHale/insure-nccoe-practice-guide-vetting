@@ -1,4 +1,4 @@
-# Progress Report (insert date here)
+# Progress Report (26 March 2018)
 ## Overview
 To this point, efforts have been made to complete set up of the lab environment for replicating the practice guide. Methodology for calculating the individual metrics was finalized. Calculating the readability metric has begun.
 
@@ -7,8 +7,10 @@ To this point, efforts have been made to complete set up of the lab environment 
 * Obtained readable.io subscription
 * Obtained readability score from readable.io
 * Developed questions for Practice Guide Usability Scale (PGUS)
+* Developed questions for Consistency survey
 * another outcome
-* another outcome
+* ...
+* ...
 
 ## Hinderances
 (insert brief discussion of challenges encountered)
