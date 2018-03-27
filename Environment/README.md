@@ -1,6 +1,6 @@
 # Environment
 
-![Network Diagram](NetworkDiagram.png)
+![NetworkDiagram](NetworkDiagram.PNG)
 
 ## Hosting
 Naturally, it would have prefered that all of the hosting be done locally. However, due to networking constraints, it became necessary to obtain public IP addresses which were not available to the local environment.
