@@ -28,7 +28,6 @@ Another minor hinderance was waiting on a domain name. Eventually, one was obtai
 |Failed Replication of Chosen Guide (14)| 7 | 2 | The replication of the guide still hasn't occured, but a majority of the setup has been completed. The risk for it failing stays the same, but it shouldn't end up being a major problem. |
 |Lack of Time (12)| 6 | 2 | We have done a lot of work in creating the grading scale, so a lack of time should be less likely with what we have done.|
 |Loss of Group Member (10) | 10 | 1 | Currently no group members have left and it is assumed that it will stay this way for the remaining month |
-(address your project risks identified from Milestone 1 and update them based on your current progress, this should be a table)
 
 ## Process Models
 ![high level process](https://www.lucidchart.com/publicSegments/view/d0fc3e21-85ff-4061-9ac5-3595a727c7bd/image.png)
