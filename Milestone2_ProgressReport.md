@@ -35,4 +35,4 @@ Another minor hinderance was waiting on a domain name. Eventually, one was obtai
 ![accuracy and usability scoring](https://www.lucidchart.com/publicSegments/view/2ba47a44-c7ce-48e0-bac1-b39a6b126714/image.png)
 
 ## Environment Layout
-<img src="./Environment/NetworkDiagram.png" />
+<img src="./Environment/NetworkDiagram.PNG" />
