@@ -24,7 +24,7 @@ Another minor hindrance was waiting on a domain name. Eventually, one was obtain
 |Risk Name (Value)      |Impact |Likelihood |Changes from Milestone 1 |
 |-----------------------|-------|-----------|------------|
 |Limited Breadth of Testing (28)| 4 | 7 | This issue hasn't changed from the original as it will still be a problem going forward. With only 4 testers for our scale, the lack of data could end up giving incorrect results about our finished grading scale. |
-|Limited Understanding (20)| 5 | 4 | A lack of understand is still a possible risk as we approach reproducing the guide. While we now have more experience with the topic, we still could still not understand entirely what was done and our scale will be inaccurate. |
+|Limited Understanding (20)| 5 | 4 | A lack of understanding is still a possible risk as we approach reproducing the guide. While we now have more experience with the topic, we still could still not understand entirely what was done and our scale will be inaccurate. |
 |Failed Replication of Chosen Guide (14)| 7 | 2 | The replication of the guide still hasn't occured, but a majority of the setup has been completed. The risk for it failing stays the same, but it shouldn't end up being a major problem. |
 |Lack of Time (12)| 6 | 2 | We have done a lot of work in creating the grading scale, so a lack of time should be less likely with what we have done.|
 |Loss of Group Member (10) | 10 | 1 | Currently no group members have left and it is assumed that it will stay this way for the remaining month |
