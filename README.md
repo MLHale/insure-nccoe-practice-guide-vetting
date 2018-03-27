@@ -84,8 +84,8 @@ In order to replicate the solution laid out within the lab document, we will fir
 After we have finished replicating the Volume C example, we will use the baseline scale developed in our first step to grade the NIST document and make an adjustments to the baseline scale. Each member of our group will apply the scale to the guide. After each member grades the document, we will apply Cohen's kappa to measure the interrater reliability of our scale. If we have poor interrater reliability, we will go back and re-evaluate how we measure the metrics of the scale in order to provide a consistent usability scale.
 
 ### Process Models
-![high level process](https://www.lucidchart.com/publicSegments/view/d0fc3e21-85ff-4061-9ac5-3595a727c7bd/image.png)
-![accuracy and usability scoring](https://www.lucidchart.com/publicSegments/view/2ba47a44-c7ce-48e0-bac1-b39a6b126714/image.png)
+![high level process](https://www.lucidchart.com/publicSegments/view/ac9dd064-bae1-4c10-9404-6b43e1cabb6f/image.png)
+![accuracy, usability, and effectiveness scoring](https://www.lucidchart.com/publicSegments/view/400e8c72-da21-426b-a0ec-32277452ed03/image.png)
 
 Resources Needed
 ----------------
