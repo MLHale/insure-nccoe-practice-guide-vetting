@@ -13,12 +13,12 @@ To this point, efforts have been made to complete set up of the lab environment 
 * Obtained public IP via cloud hosting
 * Developed base lab environment
 
-## Hinderances
-A hinderance that has occured in creating a readability score is that the current method of using Grammarly and Readable.io are more accurate when using Word documents, and not PDFs. Grammarly has had an extreme problem with finding errors when using the PDF's text as it will sometimes point out errors that aren't errors because of how the text became formatted. A solution to this would be to see if we could get the original documents used to create the PDFs from our contact at MITRE.
+## Hindrances
+A hindrance that has occured in creating a readability score is that the current method of using Grammarly and Readable.io are more accurate when using Word documents, and not PDFs. Grammarly has had an extreme problem with finding errors when using the PDF's text as it will sometimes point out errors that aren't errors because of how the text became formatted. A solution to this would be to see if we could get the original documents used to create the PDFs from our contact at MITRE.
 
-During the creation of the lab environment, multiple hinderences have occured. In an attempt to prevent the cost of paying for Public IPs, Cody tried routing some of the traffic via an IPSec VPN into an environment with access to multiple public IPs. However, due to multiple issues like routing and limited vSTEAL access, traffic would not back flow properly. After it became too much of a hassle to get it functioning, it was decided to just pay the $5 to set up our own server in Linode. Additionally, due to limitations in vSTEAL, we were unable to upload our own ISOs into vSTEAL. Because of this, we could not create any VMs using CentOS, the OS used in the guide. However, Ubuntu/Debian were both listed as viable alternative options and seem to work, minus a couple of hiccups when compiling BIND.
+During the creation of the lab environment, multiple hindrances have occured. In an attempt to prevent the cost of paying for Public IPs, Cody tried routing some of the traffic via an IPSec VPN into an environment with access to multiple public IPs. However, due to multiple issues like routing and limited vSTEAL access, traffic would not back flow properly. After it became too much of a hassle to get it functioning, it was decided to just pay the $5 to set up our own server in Linode. Additionally, due to limitations in vSTEAL, we were unable to upload our own ISOs into vSTEAL. Because of this, we could not create any VMs using CentOS, the OS used in the guide. However, Ubuntu/Debian were both listed as viable alternative options and seem to work, minus a couple of hiccups when compiling BIND.
 
-Another minor hinderance was waiting on a domain name. Eventually, one was obtained via GoDaddy which allows DNSSec.
+Another minor hindrance was waiting on a domain name. Eventually, one was obtained via GoDaddy which allows DNSSec.
 
 ## Ongoing Risks
 |Risk Name (Value)      |Impact |Likelihood |Changes from Milestone 1 |
