@@ -85,7 +85,7 @@ After we have finished replicating the Volume C example, we will use the baselin
 
 ### Process Models
 ![high level process](https://www.lucidchart.com/publicSegments/view/ac9dd064-bae1-4c10-9404-6b43e1cabb6f/image.png)
-![accuracy, usability, and effectiveness scoring](https://www.lucidchart.com/publicSegments/view/400e8c72-da21-426b-a0ec-32277452ed03/image.png)
+![accuracy, usability, and effectiveness scoring](https://www.lucidchart.com/publicSegments/view/eb8d1c40-b2ce-4e4e-ba78-212ea99bf7d5/image.png)
 
 Resources Needed
 ----------------
