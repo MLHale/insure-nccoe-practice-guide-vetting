@@ -30,8 +30,8 @@ Another minor hindrance was waiting on a domain name. Eventually, one was obtain
 |Loss of Group Member (10) | 10 | 1 | Currently no group members have left and it is assumed that it will stay this way for the remaining month |
 
 ## Process Models
-![high level process](https://www.lucidchart.com/publicSegments/view/7efc3490-1bb0-419b-92ee-e2baaaced927/image.png)
-![accuracy and usability scoring](https://www.lucidchart.com/publicSegments/view/7e13b388-67dd-4fa9-9d8f-69248946e715/image.png)
+![high level process](https://www.lucidchart.com/publicSegments/view/ac9dd064-bae1-4c10-9404-6b43e1cabb6f/image.png)
+![accuracy, usability, and effectiveness scoring](https://www.lucidchart.com/publicSegments/view/400e8c72-da21-426b-a0ec-32277452ed03/image.png)
 
 ## Environment Layout
 <img src="./Environment/NetworkDiagram.PNG" />
