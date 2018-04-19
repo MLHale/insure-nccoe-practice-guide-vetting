@@ -39,14 +39,39 @@ The text of the original SUS questions have been modified to apply to the NIST P
 
 ### Practice Guide Usability Scale Survey
 
-This is just a visual draft of the survey. For our research, the survey will be built and administered through Qualtrics.
-
-<img src="./PGUS.PNG" />  
+The University of Nebraska at Omaha has a license for the survey building software Qualtrics. The PGUS survey was built and administered through Qualtrics. The survey consists of four pages. Page 1 contains the 10 usability questions. Pages 3-4 contain the technology familiarity questions (one page for each technology group). Qualtrics provides many methods for disseminating the survey including an anonymous link that can be shared, an email invite, or a QR code.
 
 ### Familiarity With Technology
 
 In order to take into account varying skill levels and technical backgrounds that may affect the PGUS score, the user of the practice guide will be asked various questions to gauge their familiarity with specific technologies utilized in the practice guide. The user is asked to rate their familiarity with specific technologies on a scale of 1 - 10 (1 being a Novice and 10 being an Expert). The technologies presented are specific technologies noted in the practice guide. This part of the survey can be modified and tailored to any of the other practice guides. The responses can be used to breakdown reports and gain fine grained insights into the PGUS score. The insights gained can guide future improvements and/or revisions to the practice guide. 
 * For example: A large number of users self identify as being an expert with Microsfot Outlook, but the average PGUS score of this user group is low. It is possible Miscrosoft Outlook has some unique qwirks that make implementing the guide difficult. Improvements/revisions to the practice guide could provide more details for implementation with Microsoft Outlook (possibly even an appendix specific to an implementation with Microsoft Outlook).
+
+For this practice guide, the specific technologies noted include DNS, e-mail servers, and e-mail clients. The three technology groups are broken into specific technologies.
+
+DNS is broken into:
+* Hosted DNS
+* Widnows DNS
+* BIND DNS
+* Unbound DNS
+* OpenDNSSec
+
+E-mail servers is broken into:
+* Hosted E-mail Servers
+* Microsoft Exchange
+* Postfix/Dovecot
+
+E-mail Clients is broken into:
+* Email Clients
+* Microsoft Outlook
+* Thunderbird
+
+With each group of technologies, there is a Yes/No question asking the user if they are familiar with any other products of the technology group not listed. If the user selects "Yes", a comment box appears allowing the user to enter other products.
+
+### Check Out The Survey!
+
+Below is the link to a live PGUS survey for the purpose of collecting test data. Feel free to go through the survey on your own.
+
+<div><a href="https://unomaha.az1.qualtrics.com/jfe/form/SV_9RbKmkT30EXgRh3">Click here to take the survey.</a></div>
 
 ## Caculating PGUS Score
 
