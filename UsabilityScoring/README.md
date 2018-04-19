@@ -126,7 +126,7 @@ The PGUS custom metric was used to develop a custom report. This report disaplys
 
 To disseminate the PGUS survey to users, we recommend having users voluntarily register with an email address to receive the survey. When a user visits the NCCoE website and clicks on the download link for a practice guide, a registration window window will pop-up.
 
-<img src="./NCCoE SurveyRegistration.png" />(Example registration pop-up)
+<img src="./NCCoESurveyRegistration.png" />(Example registration pop-up)
 
 The email input field will validate user input to ensure a valid email address is entered. Upon clicking the "Submit" button, the registration will be timestamped. On the backend, a survey invitation email will be scheduled for the user. Based on what guide the user downloaded, they will be scheduled to receive that PGUS survey.
 
