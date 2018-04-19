@@ -45,7 +45,7 @@ This is just a visual draft of the survey. For our research, the survey will be 
 
 ## Caculating PGUS Score
 
-Qualtrics also provides the ability to develop custom metrics. The same methodology for calculating the System Usability Scale was followed:
+Qualtrics provides the ability to develop custom metrics. The same methodology for calculating the System Usability Scale was followed:
 <ul>
   <li> Each odd numbered question: questionScore = questionAnswer - 1 </li>
   <li> Each even numbered question: questionScore = 5 - questionAnswer </li>
@@ -54,7 +54,7 @@ Qualtrics also provides the ability to develop custom metrics. The same methodol
   <li> Result equals the PGUS score </li>
 </ul>
 
-A custom metric using the below formula to calculate the PGUS score was developed.
+A custom metric using the below formula to calculate the PGUS score was developed. This score is calculated on the backend after the user completes the survey.
 
 x1,x2,...,x10 refers to Question 1, Question 2, ..., Question 10
 
@@ -62,8 +62,22 @@ PGUS Score = ((x1 - 1)+(5-x2)+(x3-1)+(5-x4)+(x5-1)+(5-x6)+(x7-1)+(5-x8)+(x9-1)+(
 
 ## Reporting PGUS Score
 
-asd
+The PGUS custom metric was used to develop a custom report. This report disaplys the average PGUS score of all survey takers as a gauge. The gauge is color coded based on the SUS score evaluation outlined by Thomas (2015):
+<ul>
+  <li> 80.3 and above = A. Users love the site and would recommend it to others </li>
+    <ul>
+      <li> Gauge will be red</li>
+    </ul>
+  <li> 68 = C. There's room for improvement </li>
+    <ul>
+      <li> Gauge will be yellow</li>
+    </ul>
+  <li> 51 and below = F. Usability needs to be made a priority and fixed quickly </li>
+    <ul>
+      <li> Gauge will be green</li>
+  </ul>
+</ul>
 
-<img src="./PGUS-Score-Report.png" />
+<img src="./PGUS-Score-Report.PNG" />(Example of PGUS Score Report)
 
 ## Survey Dissemination Methodology
