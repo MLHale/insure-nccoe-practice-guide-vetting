@@ -20,7 +20,7 @@ According to Thomas (2015), the SUS scores can be evaluated as follows:
   <li> 51 and below = F. Usability needs to be made a priority and fixed quickly </li>
 </ul>
 
-## Comparison of SUS and PGUS
+## Developing Practice Guide Usability Scale
 
 The text of the original SUS questions have been modified to apply to the NIST Practice Guides while maintaining the integrity of the SUS questions. This new scale is the Practice Guide Usability Scale (PGUS).
 
@@ -37,13 +37,16 @@ The text of the original SUS questions have been modified to apply to the NIST P
 | 9 | I felt very confident using the system. | I understood the instructions in this practice guide. |
 | 10 | I needed to learn a lot of things before I could get going with this system. | Additional research was needed to complete implementation of this practice guide. |
 
-<!-- Add details regarding technical survey -->
-
-## Practice Guide Usability Scale Survey
+### Practice Guide Usability Scale Survey
 
 This is just a visual draft of the survey. For our research, the survey will be built and administered through Qualtrics.
 
 <img src="./PGUS.PNG" />  
+
+### Familiarity With Technology
+
+In order to take into account varying skill levels and technical backgrounds that may affect the PGUS score, the user of the practice guide will be asked various questions to gauge their familiarity with specific technologies utilized in the practice guide. The user is asked to rate their familiarity with specific technologies on a scale of 1 - 10 (1 being a Novice and 10 being an Expert). The technologies presented are specific technologies noted in the practice guide. This part of the survey can be modified and tailored to any of the other practice guides. The responses can be used to breakdown reports and gain fine grained insights into the PGUS score. The insights gained can guide future improvements and/or revisions to the practice guide. 
+* For example: A large number of users self identify as being an expert with Microsfot Outlook, but the average PGUS score of this user group is low. It is possible Miscrosoft Outlook has some unique qwirks that make implementing the guide difficult. Improvements/revisions to the practice guide could provide more details for implementation with Microsoft Outlook (possibly even an appendix specific to an implementation with Microsoft Outlook).
 
 ## Caculating PGUS Score
 
