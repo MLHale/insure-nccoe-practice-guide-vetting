@@ -112,9 +112,21 @@ The PGUS custom metric was used to develop a custom report. This report disaplys
 
 <img src="./PGUS-Score-Report.PNG" />
 
-### Usability Question Results
+### Usability Question Results - Different Visualizations Available In Qualtrics
 
-<!-- Add details about benefit of technology familiarity questions -- filtering/break downs -->
+<img src="./UsabilityResults-1.PNG" />
+<img src="./UsabilityResults-2.PNG" />
+<img src="./UsabilityResults-3.PNG" />
+
+### PGUS Breakdown By Technology Familiarity
+
+<img src="./PGUS-Breakdown.PNG" />
 
 ## Survey Dissemination Methodology
+
+To disseminate the PGUS survey to users, we recommend having users voluntarily register with an email address to receive the survey. When a user visits the NCCoE website and clicks on the download link for a practice guide, a registration window window will pop-up.
+
+![Example pop-up window](https://www.lucidchart.com/publicSegments/view/e67341b9-97d1-4614-be2c-9a1d41f77116/image.png)
+
+The email input field will validate user input to ensure a valid email address is entered. Upon clicking the "Submit" button, the registration will be timestamped. On the backend, a survey invitation email will be scheduled for the user. Based on what guide the user downloaded, they will be scheduled to receive that PGUS survey.
 
