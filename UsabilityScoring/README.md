@@ -124,9 +124,15 @@ The PGUS custom metric was used to develop a custom report. This report disaplys
 
 ## Survey Dissemination Methodology
 
-To disseminate the PGUS survey to users, we recommend having users voluntarily register with an email address to receive the survey. When a user visits the NCCoE website and clicks on the download link for a practice guide, a registration window window will pop-up.
-
+To disseminate the PGUS survey to users, we recommend having users voluntarily register with an email address to receive the survey. When a user visits the NCCoE website and clicks on the download link for a practice guide, a registration window will pop-up after the guide has completed downloading.
 <img src="./NCCoESurveyRegistration.png" />(Example registration pop-up)
 
-The email input field will validate user input to ensure a valid email address is entered. Upon clicking the "Submit" button, the registration will be timestamped. On the backend, a survey invitation email will be scheduled for the user. Based on what guide the user downloaded, they will be scheduled to receive that PGUS survey.
+The email input field will validate user input to ensure a valid email address is entered. Upon clicking the "Submit" button, the registration will be timestamped. On the backend, a survey invitation email will be scheduled for the user. Based on what guide the user downloaded, they will be scheduled to receive that PGUS survey. Upon successful registration, an email will be sent to the user _XX_ days later. To start, an email should be sent to the user 30 days after successful registration.
 
+The email will contain a Yes/No question asking the user if they have completed implenting the security solution. If the user answers "Yes", they will be provided with an anonymous survey link and asked to complete the survey. If the user answers "No", they will be informed that they'll be receiving a follow-up in _XX_ number of days. To start, 30 days should be the amount of time until an invite email is sent.
+
+The number of "No" responses received can be used to adjust how many days after successful registration until the user receives the first email. If the number of "No" responses is _YY_% (organization agreed upon percentage), then increase the number of days before the first email is sent. This same logic can be applied to the number of days before a reminder email is sent.
+
+Survey completion rate can be calculated as follows:
+
+<img src="https://latex.codecogs.com/gif.latex?Survey&space;Completion&space;Rate&space;=&space;\frac{\text{Number&space;of&space;surveys&space;completed}}{\text{Total&space;number&space;of&space;invite&space;emails&space;sent}}" title="Survey Completion Rate = \frac{\text{Number of surveys completed}}{\text{Total number of invite emails sent}}" /></a>
