@@ -45,9 +45,21 @@ This is just a visual draft of the survey. For our research, the survey will be 
 
 ## Caculating PGUS Score
 
-Qualtrics also provides the ability to download raw data results. These raw results will be used to calculate the PGUS score. The same methodology for calculating the SUS score will be implemented to calculate the PGUS score.
+Qualtrics also provides the ability to develop custom metrics. The same methodology for calculating the System Usability Scale was followed:
+<ul>
+  <li> Each odd numbered question: questionScore = questionAnswer - 1 </li>
+  <li> Each even numbered question: questionScore = 5 - questionAnswer </li>
+  <li> Add up total of all questionScore </li>
+  <li> Multiply total by 2.5 </li>
+  <li> Result equals the PGUS score </li>
+</ul>
 
-More details to come...
+A custom metric using the below formula to calculate the PGUS score was developed.
 
-<!-- need to investigate methods for calculating PGUS score from raw data
-excel, develop script, online calculator available?? -->
+x1,x2,...,x10 refers to Question 1, Question 2, ..., Question 10
+
+PGUS Score = ((x1 - 1)+(5-x2)+(x3-1)+(5-x4)+(x5-1)+(5-x6)+(x7-1)+(5-x8)+(x9-1)+(5-x10))*2.5
+
+## Reporting PGUS Score
+
+## Survey Dissemination Methodology
