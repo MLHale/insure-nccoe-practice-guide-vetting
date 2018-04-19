@@ -62,4 +62,8 @@ PGUS Score = ((x1 - 1)+(5-x2)+(x3-1)+(5-x4)+(x5-1)+(5-x6)+(x7-1)+(5-x8)+(x9-1)+(
 
 ## Reporting PGUS Score
 
+asd
+
+<img src="./PGUS-Score-Report.png" />
+
 ## Survey Dissemination Methodology
