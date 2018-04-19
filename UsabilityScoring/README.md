@@ -90,7 +90,9 @@ x1,x2,...,x10 refers to Question 1, Question 2, ..., Question 10
 
 PGUS Score = ((x1 - 1)+(5-x2)+(x3-1)+(5-x4)+(x5-1)+(5-x6)+(x7-1)+(5-x8)+(x9-1)+(5-x10))*2.5
 
-## Reporting PGUS Score
+## Reporting PGUS Results
+
+### PGUS Score
 
 The PGUS custom metric was used to develop a custom report. This report disaplys the average PGUS score of all survey takers as a gauge. The gauge is color coded based on the SUS score evaluation outlined by Thomas (2015):
 <ul>
@@ -108,7 +110,9 @@ The PGUS custom metric was used to develop a custom report. This report disaplys
   </ul>
 </ul>
 
-<img src="./PGUS-Score-Report.PNG" />(Example of PGUS Score Report)
+<img src="./PGUS-Score-Report.PNG" />
+
+### Usability Question Results
 
 <!-- Add details about benefit of technology familiarity questions -- filtering/break downs -->
 
