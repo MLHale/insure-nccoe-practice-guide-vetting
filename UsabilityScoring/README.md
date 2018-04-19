@@ -37,6 +37,8 @@ The text of the original SUS questions have been modified to apply to the NIST P
 | 9 | I felt very confident using the system. | I understood the instructions in this practice guide. |
 | 10 | I needed to learn a lot of things before I could get going with this system. | Additional research was needed to complete implementation of this practice guide. |
 
+<!-- Add details regarding technical survey -->
+
 ## Practice Guide Usability Scale Survey
 
 This is just a visual draft of the survey. For our research, the survey will be built and administered through Qualtrics.
@@ -80,4 +82,7 @@ The PGUS custom metric was used to develop a custom report. This report disaplys
 
 <img src="./PGUS-Score-Report.PNG" />(Example of PGUS Score Report)
 
+<!-- Add details about benefit of technology familiarity questions -- filtering/break downs -->
+
 ## Survey Dissemination Methodology
+
