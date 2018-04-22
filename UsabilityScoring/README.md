@@ -73,7 +73,7 @@ Below is the link to a live PGUS survey for the purpose of collecting test data.
 
 <div><a href="https://unomaha.az1.qualtrics.com/jfe/form/SV_9RbKmkT30EXgRh3">Click here to take the survey.</a></div>
 
-## Caculating PGUS Score
+## Calculating PGUS Score
 
 Qualtrics provides the ability to develop custom metrics. The same methodology for calculating the System Usability Scale was followed:
 <ul>
