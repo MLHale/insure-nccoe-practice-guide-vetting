@@ -63,3 +63,4 @@ In order to use the grading survey we’ve created, there are a number of steps 
 
 ### Process For Applying All Metrics
 
+<img src="./misc/ApplyingMetrics.PNG" />
