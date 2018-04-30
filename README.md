@@ -47,7 +47,7 @@ Finally, poorly scored documents likely will not be used by companies wanting to
 
 ## How to Use the Grading Scale
 [comment]: # (This section replaces the "Install Instructions" section of the suggested format from Dr. Hale.)
-In order to use the grading survey we’ve created, there are a number of steps that will need to be taken. Some of the survey questions are homogenous across all practice guides, whereas others need to be created specifically for the guide in question. In particular, the technical questions need to be created with the guide in question. The following steps need to be taken in order:
+In order to use the grading survey we’ve created, there are a number of steps that will need to be taken. The ten likert questions from the survey are homogenous across all practice guides. Familiarity with technology questions will need to be created specifically for the practice guide in question. The following steps need to be taken in order:
 
 ### Creating the PGUS
 1. Follow the instructions to create technical questions found in the TechnicalSurvey folder. This is probably best done by those who have created the practice guide.
@@ -60,3 +60,6 @@ In order to use the grading survey we’ve created, there are a number of steps 
 3. Once enough people have taken the PGUS, there should be enough data to draw conclusions about how the practice guide should be changed.
 4. Change the practice guide appropriately.
 5. Have more users use and answer the PGUS questions.
+
+### Process For Applying All Metrics
+
