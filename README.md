@@ -26,6 +26,7 @@ Readability was considered by us to say just how easy it is to read the practice
 When we ran the DNS-Based Secure Email NIST SP 1800-6 Pratice Guide through readable.io we recieved two scores:
 * Part A: C
 * Part B: B
+
 These scores were done by inputting a PDF file, which we later found to give skewed results. For our actual scale, we recommend either using a plaintext file or an actual word processing file type such as .doc, as it will give the most accurate results from readable.io.
 
 ## Usability Metric
