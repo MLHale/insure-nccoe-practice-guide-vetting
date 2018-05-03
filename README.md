@@ -211,7 +211,8 @@ In order to use the grading survey we’ve created, there are a number of steps 
 5. Have more users use and answer the PGUS questions.
 
 ### Process For Applying All Metrics
+Rather than developing a comprehensive grading scale, we feel the metrics analyzed are better suited for enhancing the full development lifecycle of a practice guide. Applying the readability and consistency metrics is most beneficial during the development process. These metrics will help ensure a higher quality guide is presented to the public. The usability metric is most beneficial during the revision/practice guide enhancement phase. Results of the PGUS survey can help guide future revisions and provide focus for areas of the practice guide that can be enhanced.
 
 <img src="./misc/ApplyingMetrics.PNG" />
 
-### Future Work
+
