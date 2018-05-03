@@ -21,6 +21,13 @@ Finally, poorly scored documents likely will not be used by companies wanting to
 ## Readability Metric
 [comment]: # (Methodology of applying readability metric)
 
+Readability was considered by us to say just how easy it is to read the practice guide's summary portions. The NIST SP series feature three main parts, with parts A and B being more focused on giving overall information on the set up steps and how they will help rather than actual instructions to follow. Our readability score focuses on just the first two parts and doesn't analyze the C portion that has the actual how-to guide. The readability metric was found by running the document through a service called readable.io. readable.io is an online application that allows users to submit documents and receive back a readability grade, using scoring similar to schools with A+ being the best and F being at the bottom. This grade is found by running multiple tests and scale on the document submitted to give an overall grade. The readable.io service also allows for customization of what you want to check for, but for our own scale we left the configuration to the default. Products such as Grammarly were also looked at for our scale, but were later determined to not have reliable enough scoring.
+
+When we ran the DNS-Based Secure Email NIST SP 1800-6 Pratice Guide through readable.io we recieved two scores:
+* Part A: C
+* Part B: B
+These scores were done by inputting a PDF file, which we later found to give skewed results. For our actual scale, we recommend either using a plaintext file or an actual word processing file type such as .doc, as it will give the most accurate results from readable.io.
+
 ## Usability Metric
 [comment]: # (Methodology of applying usability metric)
 ### Modify System Usability Scale From a Systems View to a Technical Document View
