@@ -202,6 +202,9 @@ In order to use the grading survey we’ve created, there are a number of steps 
 1. Follow the instructions to create technical questions found in the TechnicalSurvey folder. This is probably best done by those who have created the practice guide.
 2. Prepend these questions to the PGUS questions.
 3. Ensure the PGUS (with the technical questions) can be easily referenced alongside the practice guide.
+4. Documents for the PGUS survey can be found <a href="./QualtricsDoc">here</a>.
+    1. The .qsf document can be imported into a new Qualtrics account.
+    2. <a href="https://www.qualtrics.com/support/survey-platform/survey-module/survey-tools/import-and-export-surveys/">Click here for instructions on importing a .qsf file into Qualtrics.</a> 
 
 ### After Using the Guide
 1. Have users answer the PGUS questions.
