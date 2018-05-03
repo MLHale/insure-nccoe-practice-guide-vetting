@@ -172,7 +172,8 @@ Survey completion rate can be calculated as follows:
 
 ## Consistency Metric
 Once the first draft of the guide has been completed, apply the consistency rubric shown below to the guide. If it scores poorly (say, below a 16), then evaluate and edit the guide appropriately.
-Rubric - Score/20
+### Rubric - Score/20
+
 |Category |4 |3 |2 |1 |
 |---------|--|--|--|--|
 |Problem  |All 3 sections are in near-perfect agreement on what the problem is to be solved. Each section provides the appropriate audience a clear picture of what they would find in the other sections. |All 3 sections are mostly in agreement on what the problem is to be solved. There may be some ambiguity in a certain section. |All 3 sections are somewhat in agreement on what the problem is to be solved. There is ambiguity present in 2 sections. |All 3 sections are not-at-all in agreement on what the problem is to be solved. The problem is extremely unclear throughout all 3 sections. |
@@ -180,6 +181,7 @@ Rubric - Score/20
 |Approach |Section C specifically implemented the proposed solution from sections A and B with no deviation. |Section C generally implemented the proposed solution from sections A and B with occasional deviation. |Section C somewhat implemented the proposed solution from sections A and B with some important deviations. |Section C’s approach to solving the problem is not-at-all what is proposed in sections A and B. There are numerous deviations between sections. |
 |Benefits |Section C’s implementation of the solution provided all of the benefits proposed in section A. |Section C’s implementation provided most of the benefits proposed in section A. |Section C’s implementation provided some of the benefits proposed in section A. |Section C’s implementation provided few-to-none of the benefits proposed in section A. |
 |Acknowledgements |Credit was given to all appropriate parties within each section. For example, if an acknowledgement was made in section A, that same acknowledgement was recognized in sections B and C if it was appropriate to do so. |Credit was given to most of the appropriate parties within each section. |Credit was given to some of the appropriate parties within each section. |Credit was given to almost none of the appropriate parties within each section. |
+
 ## Replicating Practice Guide Example
 [comment]: # (Methodology of replicating practice guide example)
 
