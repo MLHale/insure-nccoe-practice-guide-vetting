@@ -1,5 +1,6 @@
 # Progress Report (01 May 2018)
 ## Overview
+We created section review survey and had both teams replicate portions of the guide. The group then made changes to the initial survey with feedback after completing it, and finalized everything.
 
 ## Outcomes
 [comment]: # (Copy and pasted outcomes from last presentation. Added addl' outcomes.)
