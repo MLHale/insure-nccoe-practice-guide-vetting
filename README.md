@@ -231,8 +231,21 @@ Once the first draft of the guide has been completed, apply the consistency rubr
 |Benefits |Section C’s implementation of the solution provided all of the benefits proposed in section A. |Section C’s implementation provided most of the benefits proposed in section A. |Section C’s implementation provided some of the benefits proposed in section A. |Section C’s implementation provided few-to-none of the benefits proposed in section A. |
 |Acknowledgements |Credit was given to all appropriate parties within each section. For example, if an acknowledgement was made in section A, that same acknowledgement was recognized in sections B and C if it was appropriate to do so. |Credit was given to most of the appropriate parties within each section. |Credit was given to some of the appropriate parties within each section. |Credit was given to almost none of the appropriate parties within each section. |
 
-## Replicating Practice Guide Example
+## Replicating Practice Guide
 [comment]: # (Methodology of replicating practice guide example)
+Due to the size, breadth, and nature of the guide, it was decided to complete the guide as groups of two. Each group attempted to complete the guide as if they were an organization trying to implement the guide using technologies at their current organization. So, one group attempted a more Microsoft implementation as if they were a pre-existing Windows shop, and the other group tried to recreate the guide using the Linux portions.
+
+For the environment, the guide was completed within VMware vCenter and the cloud-hosting provider, Linode. The use of Linode was necessary to create a VPN between the environment located in vCenter, acting as a gateway for the network. This allowed a single public IP for use for external services. For each group to switch services to point to their implementation, two IPTables files were created and swapped between. Here is what the environment looked like:
+
+<img src="./Environment/NetworkDiagram.PNG"/>
+
+Using the accuracy metric defined above, both groups gave an accuracy score of 100%. Steps provided were able to be followed without error, with basic changes like substituting Windows Server 2016 Technical Preview with the actual version of Windows Server 2016.
+
+However, the guide itself did have some issues. Some areas felt vague and incomplete. Perhaps the largest example of this was section 2.3: 'How to Install and Configure BIND'. This section had 3 pages on how to compile BIND for essentially any platform, but did not go over configuration besides to links to the documentation. While the documentation is good, it would have been nice to see example zone files and such like the ones provided for NSD4 sections.
+
+Another large issue with the guide was the overall implementation for Secure64 products in the guide. Anytime any configuration was needed, it was recommended to simply go to https://www.secure64.com, with no further instruction on where to go beyond that point to complete the implementation. It looks like the documentation is behind a paywall, but perhaps at least a title for the necessary document would help.
+
+Finally, no instruction was given for registrar setup. While not difficult, it would be useful for some minor details to be included, because that is part of the implementation. For example, GoDaddy, only allows certain tld's to work with DNSSec. Even just mentioning this would be beneficial, in addition to basic instruction on how to redirect DNS configuration to a user-owned server. Even if the information was included for the top 3 registrars, it would make the guide easier for the users.
 
 ## Results / Findings
 [comment]: # (brief overview of outcomes - bulleted list of milestone 1/2/3 outcomes and any addl' outcomes)
