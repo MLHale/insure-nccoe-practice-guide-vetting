@@ -83,7 +83,7 @@ For this practice guide, the specific technologies noted include DNS, e-mail ser
 
 DNS is broken into:
 * Hosted DNS
-* Widnows DNS
+* Windows DNS
 * BIND DNS
 * Unbound DNS
 * OpenDNSSec
@@ -100,11 +100,60 @@ E-mail Clients is broken into:
 
 With each group of technologies, there is a Yes/No question asking the user if they are familiar with any other products of the technology group not listed. If the user selects "Yes", a comment box appears allowing the user to enter other products.
 
+##### Section Review
+
+In addition to the above two portions of the survey, a third addition was added to provide greater metrics on a per section basis. Essentially, feedback from individual sections would be helpful and insightful in a similar way above: If a user lists themselves as an expert with BIND, but found that section difficult to use, then it needs to be adjusted. The value here is seeing which sections may be providing the users the most difficulty in the overall scoring provided above.
+
+As with the Familiarity with technology survey, it is necessary to recreate this for each survey. The first question prompted to the user, looks like this:
+
+Which of the following sections from the guide did you read or attempt to carry out the tasks within:
+ * Section 2.1 Labratory Setup
+ * Section 2.2 How to install and Configure Microsoft Server-Based DNS-Protected Email Security Componets
+ 
+ ...
+ * Appendix G: Microsoft Installation for the NCCoE
+ * Appendix H: Installation and Configuration of DNS Authority, DNS Cache, and DNS Signer at the NCCoE
+ 
+The above question lists each section of the guide, and the user selects each applicable section. Then, the user receives a dynamically created survey with questions for each survey, using the following template:
+
+The information within this section was accurate
+* Strongly Agree
+* Somewhat Agree
+* Neither Agree nor Disagree
+* Somewhat Disagree
+* Strongly disagree
+
+I needed to perform further research to understand the content of this section
+* Strongly Agree
+* Somewhat Agree
+* Neither Agree nor Disagree
+* Somewhat Disagree
+* Strongly disagree
+
+The skills and knowledge learned from this section are relevant to my job
+* Strongly Agree
+* Somewhat Agree
+* Neither Agree nor Disagree
+* Somewhat Disagree
+* Strongly disagree
+
+I would recommend this section to help others
+* Strongly Agree
+* Somewhat Agree
+* Neither Agree nor Disagree
+* Somewhat Disagree
+* Strongly disagree
+
+Which subsections or steps, if any, did you find difficult, inaccurate, or incomplete?
+* *User input textbox would go here*
+
 ##### Check Out The Survey!
 
-Below is the link to a live PGUS survey for the purpose of collecting test data. Feel free to go through the survey on your own.
+Below is the link to a live PGUS survey and familiarity with technology combined and the section review for the purpose of collecting test data. Feel free to go through the surveys on your own. Ideally when distrubuted these would be combined into 1 survey.
 
-<div><a href="https://unomaha.az1.qualtrics.com/jfe/form/SV_9RbKmkT30EXgRh3">Click here to take the survey.</a></div>
+[Click here to take the survey](https://unomaha.az1.qualtrics.com/jfe/form/SV_9RbKmkT30EXgRh3)
+
+[Click here for the Section Review](https://unomaha.az1.qualtrics.com/jfe/form/SV_2nRYEaViIN9SjeR)
 
 #### Calculating PGUS Score
 
